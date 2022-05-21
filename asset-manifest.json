@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kuxwpel/pathfinder-spa/static/css/main.c1bf5f1c.css",
-    "main.js": "/Kuxwpel/pathfinder-spa/static/js/main.7f9404bc.js",
-    "static/media/bgimg.jpg": "/Kuxwpel/pathfinder-spa/static/media/bgimg.96ba7f8a4435514aa70f.jpg",
-    "static/media/rzeszow.jpg": "/Kuxwpel/pathfinder-spa/static/media/rzeszow.78adecf2dc9f45efe07b.jpg",
-    "static/media/caelid2.jpg": "/Kuxwpel/pathfinder-spa/static/media/caelid2.be15e72be7c0977a4711.jpg",
-    "static/media/stormwind2.jpg": "/Kuxwpel/pathfinder-spa/static/media/stormwind2.9fa52f730e37785b7b43.jpg",
-    "static/media/stormwind.jpg": "/Kuxwpel/pathfinder-spa/static/media/stormwind.924d8bc7f03d72c66df0.jpg",
-    "static/media/stormwind3.jpg": "/Kuxwpel/pathfinder-spa/static/media/stormwind3.895309ad7dac93addf77.jpg",
-    "index.html": "/Kuxwpel/pathfinder-spa/index.html",
-    "main.c1bf5f1c.css.map": "/Kuxwpel/pathfinder-spa/static/css/main.c1bf5f1c.css.map",
-    "main.7f9404bc.js.map": "/Kuxwpel/pathfinder-spa/static/js/main.7f9404bc.js.map"
+    "main.css": "/pathfinder-spa/static/css/main.c1bf5f1c.css",
+    "main.js": "/pathfinder-spa/static/js/main.5f39a0bf.js",
+    "static/media/bgimg.jpg": "/pathfinder-spa/static/media/bgimg.96ba7f8a4435514aa70f.jpg",
+    "static/media/rzeszow.jpg": "/pathfinder-spa/static/media/rzeszow.78adecf2dc9f45efe07b.jpg",
+    "static/media/caelid2.jpg": "/pathfinder-spa/static/media/caelid2.be15e72be7c0977a4711.jpg",
+    "static/media/stormwind2.jpg": "/pathfinder-spa/static/media/stormwind2.9fa52f730e37785b7b43.jpg",
+    "static/media/stormwind.jpg": "/pathfinder-spa/static/media/stormwind.924d8bc7f03d72c66df0.jpg",
+    "static/media/stormwind3.jpg": "/pathfinder-spa/static/media/stormwind3.895309ad7dac93addf77.jpg",
+    "index.html": "/pathfinder-spa/index.html",
+    "main.c1bf5f1c.css.map": "/pathfinder-spa/static/css/main.c1bf5f1c.css.map",
+    "main.5f39a0bf.js.map": "/pathfinder-spa/static/js/main.5f39a0bf.js.map"
   },
   "entrypoints": [
     "static/css/main.c1bf5f1c.css",
-    "static/js/main.7f9404bc.js"
+    "static/js/main.5f39a0bf.js"
   ]
 }
