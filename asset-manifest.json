@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/pathfinder-spa/static/css/main.c1bf5f1c.css",
-    "main.js": "/pathfinder-spa/static/js/main.5f39a0bf.js",
+    "main.css": "/pathfinder-spa/static/css/main.22863425.css",
+    "main.js": "/pathfinder-spa/static/js/main.16121844.js",
+    "static/js/960.b1111d17.chunk.js": "/pathfinder-spa/static/js/960.b1111d17.chunk.js",
     "static/media/bgimg.jpg": "/pathfinder-spa/static/media/bgimg.96ba7f8a4435514aa70f.jpg",
     "static/media/rzeszow.jpg": "/pathfinder-spa/static/media/rzeszow.78adecf2dc9f45efe07b.jpg",
     "static/media/caelid2.jpg": "/pathfinder-spa/static/media/caelid2.be15e72be7c0977a4711.jpg",
@@ -9,11 +10,12 @@
     "static/media/stormwind.jpg": "/pathfinder-spa/static/media/stormwind.924d8bc7f03d72c66df0.jpg",
     "static/media/stormwind3.jpg": "/pathfinder-spa/static/media/stormwind3.895309ad7dac93addf77.jpg",
     "index.html": "/pathfinder-spa/index.html",
-    "main.c1bf5f1c.css.map": "/pathfinder-spa/static/css/main.c1bf5f1c.css.map",
-    "main.5f39a0bf.js.map": "/pathfinder-spa/static/js/main.5f39a0bf.js.map"
+    "main.22863425.css.map": "/pathfinder-spa/static/css/main.22863425.css.map",
+    "main.16121844.js.map": "/pathfinder-spa/static/js/main.16121844.js.map",
+    "960.b1111d17.chunk.js.map": "/pathfinder-spa/static/js/960.b1111d17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1bf5f1c.css",
-    "static/js/main.5f39a0bf.js"
+    "static/css/main.22863425.css",
+    "static/js/main.16121844.js"
   ]
 }
