@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/pathfinder-spa/static/css/main.22863425.css",
-    "main.js": "/pathfinder-spa/static/js/main.16121844.js",
-    "static/js/960.b1111d17.chunk.js": "/pathfinder-spa/static/js/960.b1111d17.chunk.js",
-    "static/media/bgimg.jpg": "/pathfinder-spa/static/media/bgimg.96ba7f8a4435514aa70f.jpg",
-    "static/media/rzeszow.jpg": "/pathfinder-spa/static/media/rzeszow.78adecf2dc9f45efe07b.jpg",
-    "static/media/caelid2.jpg": "/pathfinder-spa/static/media/caelid2.be15e72be7c0977a4711.jpg",
-    "static/media/stormwind2.jpg": "/pathfinder-spa/static/media/stormwind2.9fa52f730e37785b7b43.jpg",
-    "static/media/stormwind.jpg": "/pathfinder-spa/static/media/stormwind.924d8bc7f03d72c66df0.jpg",
-    "static/media/stormwind3.jpg": "/pathfinder-spa/static/media/stormwind3.895309ad7dac93addf77.jpg",
+    "main.css": "/pathfinder-spa/static/css/main.b4208b5d.css",
+    "main.js": "/pathfinder-spa/static/js/main.1c6251fd.js",
+    "static/js/960.0010fd29.chunk.js": "/pathfinder-spa/static/js/960.0010fd29.chunk.js",
+    "static/media/desktopcut.mp4": "/pathfinder-spa/static/media/desktopcut.2f03bc44e39492dc5010.mp4",
+    "static/media/stormwind.jpg": "/pathfinder-spa/static/media/stormwind.0c332d981d683d820f93.jpg",
+    "static/media/ironforge.jpg": "/pathfinder-spa/static/media/ironforge.b1cc6a821296c2e7aa0e.jpg",
+    "static/media/chillbreezevalleysacrophagus.jpg": "/pathfinder-spa/static/media/chillbreezevalleysacrophagus.d6ef1c4b72bbbbbd0289.jpg",
+    "static/media/stormgardekeep.jpg": "/pathfinder-spa/static/media/stormgardekeep.47a6e2f7ac87d5d392cf.jpg",
+    "static/media/boralus.jpg": "/pathfinder-spa/static/media/boralus.20a7ec8444f4f67751c1.jpg",
+    "static/media/proudmoorekeep.jpg": "/pathfinder-spa/static/media/proudmoorekeep.821104f9a4a6fec148cf.jpg",
+    "static/media/burningsteppes.jpg": "/pathfinder-spa/static/media/burningsteppes.9cf45e7e4ca5e4787c1e.jpg",
     "index.html": "/pathfinder-spa/index.html",
-    "main.22863425.css.map": "/pathfinder-spa/static/css/main.22863425.css.map",
-    "main.16121844.js.map": "/pathfinder-spa/static/js/main.16121844.js.map",
-    "960.b1111d17.chunk.js.map": "/pathfinder-spa/static/js/960.b1111d17.chunk.js.map"
+    "main.b4208b5d.css.map": "/pathfinder-spa/static/css/main.b4208b5d.css.map",
+    "main.1c6251fd.js.map": "/pathfinder-spa/static/js/main.1c6251fd.js.map",
+    "960.0010fd29.chunk.js.map": "/pathfinder-spa/static/js/960.0010fd29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22863425.css",
-    "static/js/main.16121844.js"
+    "static/css/main.b4208b5d.css",
+    "static/js/main.1c6251fd.js"
   ]
 }
