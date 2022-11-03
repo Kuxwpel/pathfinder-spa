@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pathfinder-spa/static/css/main.454af837.css",
-    "main.js": "/pathfinder-spa/static/js/main.f387ffbb.js",
+    "main.js": "/pathfinder-spa/static/js/main.b2cad96d.js",
     "static/js/960.0010fd29.chunk.js": "/pathfinder-spa/static/js/960.0010fd29.chunk.js",
     "static/media/desktopcut.mp4": "/pathfinder-spa/static/media/desktopcut.2f03bc44e39492dc5010.mp4",
     "static/media/stormwind.jpg": "/pathfinder-spa/static/media/stormwind.0c332d981d683d820f93.jpg",
@@ -13,11 +13,11 @@
     "static/media/burningsteppes.jpg": "/pathfinder-spa/static/media/burningsteppes.9cf45e7e4ca5e4787c1e.jpg",
     "index.html": "/pathfinder-spa/index.html",
     "main.454af837.css.map": "/pathfinder-spa/static/css/main.454af837.css.map",
-    "main.f387ffbb.js.map": "/pathfinder-spa/static/js/main.f387ffbb.js.map",
+    "main.b2cad96d.js.map": "/pathfinder-spa/static/js/main.b2cad96d.js.map",
     "960.0010fd29.chunk.js.map": "/pathfinder-spa/static/js/960.0010fd29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.454af837.css",
-    "static/js/main.f387ffbb.js"
+    "static/js/main.b2cad96d.js"
   ]
 }
